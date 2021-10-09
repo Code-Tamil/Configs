@@ -4,6 +4,7 @@ This are My configurations Just Try it out guys.
 ### Vimrc
 - This is the config of vim code editor 
 #### To configure
+- Just copy this and Run on your terminal
 ```sh
 sudo apt-get install vim
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
