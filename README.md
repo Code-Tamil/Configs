@@ -3,7 +3,9 @@ This are My configurations Just Try it out guys.
 
 ### Vimrc
 - This is the config of vim code editor
+
 <img src="https://github.com/Code-Tamil/Configs/blob/main/img/vim.png?raw=true" height="450">
+
 #### To configure
 - Just copy this and Run on your terminal
 ```sh
