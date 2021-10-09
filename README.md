@@ -13,5 +13,5 @@ git clone https://github.com/Code-Tamil/Configs.git
 cp Configs/vimrc ~/.vimrc
 vim ~/.vimrc
 ```
-- Then type ```:Pluginstall``` and Enter
+- Then type ```:PlugInstall``` and Enter
 - It will Install All the Plugins
