@@ -22,6 +22,8 @@ vim ~/.vimrc
 ### Zshrc
 - This is the config of my ZSH Terminal
 
+<img src="https://github.com/Code-Tamil/Configs/blob/main/img/zshrc.png?raw=true" height="450">
+
 #### To configure
 - Just copy this and Run on your terminal
 ```sh
