@@ -18,17 +18,3 @@ vim ~/.vimrc
 ```
 - Then type ```:PlugInstall``` and Enter
 - It will Install All the Plugins
-
-### Zshrc
-- This is the config of my ZSH Terminal
-
-<img src="https://github.com/Code-Tamil/Configs/blob/main/img/zshrc.png?raw=true" height="450">
-
-#### To configure
-- Just copy this and Run on your terminal
-```sh
-git clone https://github.com/Code-Tamil/Configs.git
-cp Configs/zshrc ~/.zshrc
-```
-
-- Then Restart Your Terminal
